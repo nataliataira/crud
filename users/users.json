@@ -1,0 +1,19 @@
+[
+    {
+        "name": "some name",
+        "username": "name_123",
+        "email": "name@email.com",
+        "phone": "1234 5678",
+        "website": "google.com",
+        "id": 1,
+        "extension": ""
+    },
+    {
+        "name": "another name",
+        "username": "a_name",
+        "email": "aname@email.com",
+        "phone": "1234 5678",
+        "website": "",
+        "id": 191160
+    }
+]
